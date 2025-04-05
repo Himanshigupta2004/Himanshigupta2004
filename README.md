@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshi</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on **Resume builder**
+- 🔭 I’m currently working on **Coding-platform**
 
 - 🌱 I’m currently learning **Java**
 
